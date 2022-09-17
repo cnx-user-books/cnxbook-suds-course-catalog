@@ -1,0 +1,49 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual" authors="Tom Clark">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10521</md:content-id>
+    <md:title>SUDS Course Catalog</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7db26c55-6fe2-4b74-931f-230ba44d7f15</md:uuid>
+<md:slug>suds-course-catalog</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to SUDS</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>(Untitled)</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Academic Policies and Regulations</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Master of Divinity Program</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Master of Religious Education Program</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Course Descriptions</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>ARMI</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Continuing Education</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Special Programs</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
